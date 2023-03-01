@@ -73,7 +73,7 @@ body header nav ul li a:hover {
 }
 body main section.background-img {
   min-height: 50vw;
-  background-image: url("../Icons/背景照.jpg");
+  background-image: url(../風景照/LINE_ALBUM_風景夜景照_230228_7.jpg);
   background-size: 100vw 70vw;
   background-position: center;
   transition: all 0.88s ease;
